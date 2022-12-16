@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: rgb(215, 214, 213);
+}
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: navy;
+    font-weight: normal;
+}
+h1 {
+    color: rgb(214, 99, 99);
+}
+.bold {
+    font-weight: bold;
+}
